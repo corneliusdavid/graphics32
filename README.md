@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is a fork of the original [Graphics32](https://github.com/graphics32/graphics32) project, created only for submitting pull-requests. This repo may be behind the original repo. Please do not fork this or submit issues here--do that on the original repo.
+
 # Graphics32
 Graphics32 is a graphics library for Delphi and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives. In most cases Graphics32 considerably outperforms the standard TBitmap/TCanvas methods.
 
